@@ -167,3 +167,7 @@ Hemos agregado las palabras reservadas ***continue*** y ***break*** con los toke
 
 <center><img src="./imagenes/pregunta4_LoopSkipStatement_2.png" ald="pr-fstmt" ></center>
 
+## Resultados
+<center><img src="./resultadosP/*" ald="pruebitas" ></center>
+
+
