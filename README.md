@@ -168,6 +168,15 @@ Hemos agregado las palabras reservadas ***continue*** y ***break*** con los toke
 <center><img src="./imagenes/pregunta4_LoopSkipStatement_2.png" ald="pr-fstmt" ></center>
 
 ## Resultados
-<center><img src="./resultadosP/*" ald="pruebitas" ></center>
+
+<center><img src="./resultadosP/WhatsApp Image 2023-11-27 at 10.17.30 AM.jpeg" ald="pruebitas" ></center>
+<center><img src="./resultadosP/WhatsApp Image 2023-11-27 at 10.17.58 AM.jpeg" ald="pruebitas" ></center>
+<center><img src="./resultadosP/WhatsApp Image 2023-11-27 at 10.22.04 AM.jpeg" ald="pruebitas" ></center>
+<center><img src="./resultadosP/WhatsApp Image 2023-11-27 at 10.22.59 AM.jpeg" ald="pruebitas" ></center>
+<center><img src="./resultadosP/WhatsApp Image 2023-11-27 at 10.23.22 AM.jpeg" ald="pruebitas" ></center>
+<center><img src="./resultadosP/WhatsApp Image 2023-11-27 at 10.26.23 AM.jpeg" ald="pruebitas" ></center>
+<center><img src="./resultadosP/WhatsApp Image 2023-11-27 at 10.26.50 AM.jpeg" ald="pruebitas" ></center>
+<center><img src="./resultadosP/WhatsApp Image 2023-11-27 at 10.29.14 AM.jpeg" ald="pruebitas" ></center>
+
 
 
