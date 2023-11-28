@@ -1,0 +1,14 @@
+var bool y;
+var int a,b;
+a = 10;
+b = 5;
+
+for x : 1, a do
+    y = x <= 4;
+    if y then
+        continue
+    else
+        print(x)
+    endif
+endfor
+

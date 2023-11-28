@@ -1,0 +1,6 @@
+var int a,b;
+a = 10;
+b = 5;
+
+for x : 1, a do for y : 1, b do print(y) endfor endfor
+
