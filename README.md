@@ -67,7 +67,6 @@ Nos piden **Implementar la generación de código objeto para constantes boolean
 
 <center><img src="./imagenes/pregunta2_ForStatementp4.png" ald="pr-fstmt" ></center>
 
-- La sección de código entre **'check'** y **'codegen(body)'** realiza la comparación, y la instrucción que sigue a **'codegen(body)'** incrementa la variable de iteración. Mantenemos 'e2' en la pila, por lo que debemos liberar su espacio en el momento de salir del bucle para mantener la invariante de la pila.
 
 - Al final eliminamos el nivel creado en el enviroment de direcciones y reparamos la dirección posterior que se puede usar en la pila
 
